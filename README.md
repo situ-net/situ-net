@@ -1,4 +1,4 @@
-- 👋 Hi, we are @situ-net
+- 👋 Hi, we are Situ @situ-net
 - 👀 We are interested in great software
 - 📫 We live @ www.situ.net
 
